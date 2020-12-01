@@ -8,10 +8,7 @@
 <a href="https://github.com/AnwaDeveloper"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ANWA DEVELOPER-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/AnwaDeveloper/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/AnwaDeveloper/whatsapp-bot/badge/master"></a>
-</p>
-<p align="center">
-<a href="https://github.com/arugaz/followers"><img title="Followers" src="https://img.shields.io/github/followers/arugaz?color=blue&style=flat-square"></a>
+<a href="https://github.com/AnwaDeveloper/followers"><img title="Followers" src="https://img.shields.io/github/followers/arugaz?color=blue&style=flat-square"></a>
 <a href="https://github.com/AnwaDeveloper/WhatsappBotV1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/AnwaDeveloper/WhatsappBotV1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/AnwaDeveloper/WhatsappBotV1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/arugaz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
@@ -38,7 +35,7 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/AnwaDeveloper/whatsapp-bot.git
+> git clone https://github.com/AnwaDeveloper/WhatsappBotV1.git
 > cd whatsapp-bot
 ```
 
